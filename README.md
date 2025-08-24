@@ -1,0 +1,2 @@
+During my internship at Prasuta Venture, I collected data on 25 mutual funds and analyzed them using pivot tables and an interactive dashboard to evaluate NAV trends, risk metrics, expense ratios, fund manager track records, and performance consistency. 
+Based on the analysis, I curated tailored portfolios for three investor profiles, aligning fund choices with their age, investment goals, and risk appetite.
